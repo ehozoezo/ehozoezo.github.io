@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ehozoezo.github.io/CYp/sitemap_index.txt
+Sitemap: https://ehozoezo.github.io/Wqs/sitemap_index.txt
+Sitemap: https://ehozoezo.github.io/gte/sitemap_index.txt
+Sitemap: https://ehozoezo.github.io/kDV/sitemap_index.txt
